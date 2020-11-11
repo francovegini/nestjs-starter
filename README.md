@@ -1,5 +1,8 @@
 # NestJs Starter
 
+- NestJs
+- Sequelize
+
 ## Installation
 
 ```bash
